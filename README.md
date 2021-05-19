@@ -3,6 +3,7 @@ class Diego:
 
     def __init__(self):
         self.name = 'Diego Moraes'
+        self.personal_git = 'dieg0.moraes'
         self.linkedIn = 'dieg0moraes'
         self.location = 'Montevideo'
         self.dev_stack = {
