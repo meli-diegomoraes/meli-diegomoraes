@@ -4,6 +4,7 @@ class Diego:
     def __init__(self):
         self.name = 'Diego Moraes'
         self.linkedIn = 'dieg0moraes'
+        self.location = 'Montevideo'
         self.dev_stack = {
             personal_os: 'Arch', # Always changing
             editor: 'neovim📃'
